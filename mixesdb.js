@@ -85,7 +85,7 @@ unorderedScrape = function(tracklist){
 orderedScrape = function(tracklist){
 	for (i=0; i<tracklist.length; i++){
 		track = tracklist[i].innerText;
-		scrape(track);
+		scrape(track);f
 	}
 
 }
